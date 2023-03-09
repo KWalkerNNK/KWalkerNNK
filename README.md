@@ -2,6 +2,7 @@ Hey there, I'm Khanh. I'm a software developer!!!
 
 [![Twitter Followers](https://img.shields.io/twitter/follow/KWalkerNNK?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/KWalkerNNK) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/KWalkerNNK?logo=GitHub&style=for-the-badge)](https://github.com/KWalkerNNK) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/KWalkerNNK?logo=github&style=for-the-badge)](https://github.com/KWalkerNNK) &nbsp;
 
+
 # 👋 &nbsp;Hi there
 
 As a Web developer, I have a quick learning ability. My strengths lie in Web (Backend) development as well as a strong understanding of basic concepts of JavaScript, TypeScript. I understand what RESTful APIs, MVC, WebSocket and some other OOP Design Patterns are.
@@ -11,6 +12,10 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 
 &nbsp;
 
+## 🖥 &nbsp;My Skills
+{@codepen: https://codepen.io/nguyn-nh-kh-nh/pen/eYLerLX}
+
+&nbsp;
 
 ## 🖥 &nbsp;Past work
 
