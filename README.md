@@ -10,11 +10,6 @@ I am fairly proficient in some technologies such as: NodeJS/NestJS, React Native
 I have basic knowledge of source code management tool: GIT.
 Efficiently manage independent projects, as well as collaborate in a team working environment.
 
-&nbsp;
-
-## 🚀 &nbsp;My Skills
-![Biểu đồ kỹ năng của tôi](./myskill.png)
-
 
 &nbsp;
 
