@@ -13,7 +13,7 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 &nbsp;
 
 ## 🖥 &nbsp;My Skills
-{@codepen: https://codepen.io/nguyn-nh-kh-nh/pen/eYLerLX}
+{@codepen: https://codepen.io/nguyn-nh-kh-nh/pen/eYLerLX }
 
 &nbsp;
 
