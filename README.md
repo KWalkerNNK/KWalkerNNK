@@ -13,57 +13,7 @@ Efficiently manage independent projects, as well as collaborate in a team workin
 &nbsp;
 
 ## 🚀 &nbsp;My Skills
-<div class="iframe-container">
-  <iframe srcdoc="
-    <html>
-      <head>
-        <script type='text/javascript' src='https://www.gstatic.com/charts/loader.js'></script>
-        <script type='text/javascript'>
-          google.charts.load('current', {'packages':['bar']});
-          google.charts.setOnLoadCallback(drawChart);
-          function drawChart() {
-            var data = google.visualization.arrayToDataTable([
-              ['Skill', 'Level', { role: 'style' }],
-              ['JavaScript', 70, 'color: #3366CC'],
-              ['TypeScript', 75, 'color: #3366CC'],
-              ['MVC', 90, 'color: #3366CC'],
-              ['RESTful APIs', 90, 'color: #3366CC'],
-              ['WebSocket', 70, 'color: #3366CC'],
-              ['OOP Design Patterns', 65, 'color: #3366CC'],
-              ['NodeJS/NestJS', 85, 'color: #3366CC'],
-              ['React Native', 45, 'color: #3366CC'],
-              ['MySQL', 70, 'color: #3366CC'],
-              ['NoSQL(MongoDB)', 65, 'color: #3366CC'],
-              ['GIT', 55, 'color: #3366CC'],
-              ['Project Management', 80, 'color: #3366CC']
-            ]);
-
-            var options = {
-              chart: {
-                title: 'My Skills',
-                subtitle: 'Skill level (0-100)',
-              },
-              legend: {position: 'none'},
-              bars: 'horizontal', // or 'vertical'
-              axes: {
-                x: {
-                  0: {side: 'top', label: 'Skill Level (0-100)'} // Top x-axis.
-                }
-              },
-              bar: { groupWidth: '90%' }
-            };
-
-            var chart = new google.charts.Bar(document.getElementById('barchart'));
-            chart.draw(data, google.charts.Bar.convertOptions(options));
-          }
-        </script>
-      </head>
-      <body>
-        <div id='barchart' style='width: 900px; height: 500px;'></div>
-      </body>
-    </html>
-  " frameborder="0"></iframe>
-</div>
+![Biểu đồ kỹ năng của tôi](./myskill.png)
 
 
 &nbsp;
